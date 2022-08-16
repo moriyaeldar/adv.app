@@ -1,0 +1,31 @@
+.home-page{
+    background-image: url('../assets/img/banner.jpg');
+    height: 500px;
+    background-size: cover;
+    border: inset;
+    h1{
+        font-family: "bellefair-regular";
+        color: rgba(62, 5, 80, 0.562);
+        font-size:5rem;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 1rem;
+        margin-right: 55%;
+        transform: translateY(120px);
+        padding:2%;
+        border-bottom-style: groove;
+    }
+}
+
+.title{
+    font-size:3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.qualities{
+    text-align: center;
+    display: flex;
+    font-weight: bold;
+    color: darkgray;
+}
